@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/venv/Scripts/python.exe -c \"\nimport ast\nfiles = [\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/config.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/database.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/celery_app.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/workers/ohlcv_fetcher.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/workers/filing_crawler.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/workers/bulk_deals_fetcher.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/api/v1/stocks.py',\n    'C:/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/backend/app/api/v1/ingest.py',\n]\nfor f in files:\n    try:\n        ast.parse\\(open\\(f\\).read\\(\\)\\)\n        print\\('OK:', f.split\\('/'\\)[-1]\\)\n    except SyntaxError as e:\n        print\\('ERROR', f.split\\('/'\\)[-1], ':', e\\)\n\")",
+      "Read(//mnt/c/Users/amans/Desktop/ET_Hackathon/ET_Hackathon/**)",
+      "Bash(python3 -c \":*)",
+      "Read(//mnt/c/Users/amans/**)",
+      "Read(//c/Users/amans/Desktop//**)",
+      "Bash(python3:*)"
+    ]
+  }
+}

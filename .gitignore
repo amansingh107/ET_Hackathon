@@ -1,0 +1,65 @@
+# ===== Python / Backend =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+*.cover
+
+# Virtual environments
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+
+# Alembic
+# (keep alembic.ini and migrations tracked)
+
+# ===== Node / Frontend =====
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/coverage/
+frontend/.pnp
+frontend/.pnp.js
+
+# ===== Environment & Secrets =====
+.env
+.env.*
+!.env.example
+*.local
+
+# ===== Docker =====
+.docker/
+
+# ===== Editors & OS =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs =====
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== Misc =====
+*.bak
+*.tmp
+*.orig
