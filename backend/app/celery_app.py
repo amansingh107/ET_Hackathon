@@ -16,6 +16,7 @@ celery_app = Celery(
         "app.signals.insider_scorer",
         "app.signals.filing_scorer",
         "app.workers.pattern_scanner",
+        "app.workers.text_extractor",
     ],
 )
 
@@ -70,6 +71,11 @@ celery_app.conf.update(
         "nightly-pattern-scan": {
             "task": "app.workers.pattern_scanner.scan_all_stocks",
             "schedule": crontab(hour=20, minute=0),
+        },
+        # Extract text from filing attachments every 30 min
+        "extract-filing-texts": {
+            "task": "app.workers.text_extractor.extract_filing_texts",
+            "schedule": crontab(minute="*/30"),
         },
     },
 )

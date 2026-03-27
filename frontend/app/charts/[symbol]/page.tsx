@@ -1,8 +1,14 @@
 import { api } from "@/lib/api";
 import { PatternCard } from "@/components/charts/PatternCard";
-import { StockChart } from "@/components/charts/StockChart";
 import { fmt } from "@/lib/formatters";
 import Link from "next/link";
+import dynamic from "next/dynamic";
+
+// Must be dynamically imported — lightweight-charts accesses window at module level
+const StockChart = dynamic(
+  () => import("@/components/charts/StockChart").then((m) => m.StockChart),
+  { ssr: false, loading: () => <div className="h-[420px] bg-slate-900 rounded-lg animate-pulse" /> }
+);
 
 export const revalidate = 60;
 
