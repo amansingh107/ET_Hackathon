@@ -1,0 +1,1852 @@
+{
+  "timestamp": "2026-03-27T23:39:36.964798",
+  "stats": {
+    "total_funds": 14341,
+    "total_amcs": 51,
+    "avg_nav": 1668.4560936267087
+  },
+  "sample_funds": [
+    {
+      "scheme_code": "119551",
+      "isin_div_payout": "INF209KA12Z1",
+      "isin_div_reinvest": "INF209KA13Z9",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW",
+      "nav": 103.9102,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "119552",
+      "isin_div_payout": "INF209K01YM2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW",
+      "nav": 116.2881,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "119553",
+      "isin_div_payout": "INF209K01YO8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW",
+      "nav": 103.201,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "108272",
+      "isin_div_payout": "INF209K01LX6",
+      "isin_div_reinvest": "INF209KA11Z3",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW",
+      "nav": 145.5899,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "110282",
+      "isin_div_payout": "INF209K01LU2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW",
+      "nav": 111.7598,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "108274",
+      "isin_div_payout": "INF209K01LN7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW",
+      "nav": 100.9289,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "110490",
+      "isin_div_payout": "INF209K01LR8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - monthly IDCW",
+      "nav": 113.0486,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "106157",
+      "isin_div_payout": "INF209K01LS6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - quarterly IDCW",
+      "nav": 102.1078,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "108273",
+      "isin_div_payout": "INF209K01LV0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth",
+      "nav": 377.1584,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "103176",
+      "isin_div_payout": "INF209K01LT4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Growth",
+      "nav": 566.166,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "119550",
+      "isin_div_payout": "INF209K01YN0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth",
+      "nav": 392.4255,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "128952",
+      "isin_div_payout": "INF846K01NF8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option",
+      "nav": 1532.8272,
+      "date": "14-Jun-2017",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120437",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF846K01CU0",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Daily IDCW",
+      "nav": 1034.8644,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120438",
+      "isin_div_payout": "INF846K01CR6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Growth Option",
+      "nav": 2809.9107,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120439",
+      "isin_div_payout": "INF846K01CT2",
+      "isin_div_reinvest": "INF846K01CS4",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Monthly IDCW",
+      "nav": 1029.64,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120436",
+      "isin_div_payout": "INF846K01CV8",
+      "isin_div_reinvest": "INF846K01CW6",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Weekly IDCW",
+      "nav": 1034.0389,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "128953",
+      "isin_div_payout": "INF846K01NG6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Bonus Option",
+      "nav": 1289.4075,
+      "date": "18-May-2015",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "117447",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF846K01CC8",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW",
+      "nav": 1034.7362,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "117446",
+      "isin_div_payout": "INF846K01CB0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Growth option",
+      "nav": 2719.301,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "117449",
+      "isin_div_payout": "INF846K01CF1",
+      "isin_div_reinvest": "INF846K01CG9",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Monthly IDCW",
+      "nav": 1029.3946,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "117448",
+      "isin_div_payout": "INF846K01CD6",
+      "isin_div_reinvest": "INF846K01CE4",
+      "scheme_name": "Axis Banking & PSU Debt Fund - Regular Plan - Weekly IDCW",
+      "nav": 1033.8376,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "152164",
+      "isin_div_payout": "INF0QA701649",
+      "isin_div_reinvest": "INF0QA701631",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund-  Direct Plan-Monthly- IDCW",
+      "nav": 10.9314,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "152163",
+      "isin_div_payout": "INF0QA701615",
+      "isin_div_reinvest": "INF0QA701623",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund- Direct Plan- IDCW",
+      "nav": 11.8599,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "152165",
+      "isin_div_payout": "INF0QA701557",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund- Regular Plan- Growth",
+      "nav": 11.7062,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "152166",
+      "isin_div_payout": "INF0QA701565",
+      "isin_div_reinvest": "INF0QA701573",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund- Regular Plan- IDCW",
+      "nav": 11.7062,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "152162",
+      "isin_div_payout": "INF0QA701607",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund-Direct Plan- Growth",
+      "nav": 11.8599,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "152167",
+      "isin_div_payout": "INF0QA701599",
+      "isin_div_reinvest": "INF0QA701581",
+      "scheme_name": "Bajaj Finserv Banking and PSU Fund-Regular Plan-Monthly-IDCW",
+      "nav": 10.8564,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121936",
+      "isin_div_payout": "INF194K019M8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct Annual IDCW",
+      "nav": 11.9822,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "127471",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF194KA1JD3",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct Daily IDCW",
+      "nav": 10.4543,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121934",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF194K010N5",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct Fortnightly IDCW",
+      "nav": 10.4361,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121279",
+      "isin_div_payout": "INF194K015G8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct Growth",
+      "nav": 26.207,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121281",
+      "isin_div_payout": "INF194K016G6",
+      "isin_div_reinvest": "INF194K017G4",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct IDCW",
+      "nav": 13.7855,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121935",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF194K011N3",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct Monthly IDCW",
+      "nav": 10.4116,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121938",
+      "isin_div_payout": "INF194K018M0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bandhan Banking and PSU Fund - Direct Quarterly IDCW",
+      "nav": 10.9164,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121933",
+      "isin_div_payout": "INF194K015M6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular Annual IDCW",
+      "nav": 11.0438,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "127470",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF194KA1JC5",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular Daily IDCW",
+      "nav": 10.854,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121931",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF194K016M4",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular Fortnightly IDCW",
+      "nav": 10.5896,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121280",
+      "isin_div_payout": "INF194K01SN6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular Growth",
+      "nav": 25.408,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121282",
+      "isin_div_payout": "INF194K01SO4",
+      "isin_div_reinvest": "INF194K012D2",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular IDCW",
+      "nav": 13.7202,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121932",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF194K017M2",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular Monthly IDCW",
+      "nav": 10.6528,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "121937",
+      "isin_div_payout": "INF194K014M9",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bandhan Banking and PSU Fund - Regular Quarterly IDCW",
+      "nav": 10.8143,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "150505",
+      "isin_div_payout": "INF760K01KC4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Direct Plan- Growth Option",
+      "nav": 12.5278,
+      "date": "27-Mar-2026",
+      "amc": "Canara Robeco Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "150507",
+      "isin_div_payout": "INF760K01KE0",
+      "isin_div_reinvest": "INF760K01KD2",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Direct Plan- IDCW Payout",
+      "nav": 10.7663,
+      "date": "27-Mar-2026",
+      "amc": "Canara Robeco Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "150503",
+      "isin_div_payout": "INF760K01KF7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- Growth Option",
+      "nav": 12.3924,
+      "date": "27-Mar-2026",
+      "amc": "Canara Robeco Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "150504",
+      "isin_div_payout": "INF760K01KH3",
+      "isin_div_reinvest": "INF760K01KG5",
+      "scheme_name": "Canara Robeco Banking and PSU Debt Fund- Regular Plan- IDCW (Payout/ Reinvestment)",
+      "nav": 10.6617,
+      "date": "27-Mar-2026",
+      "amc": "Canara Robeco Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124175",
+      "isin_div_payout": "INF740K01ZW2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - Growth",
+      "nav": 25.4977,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124178",
+      "isin_div_payout": "INF740K01A18",
+      "isin_div_reinvest": "INF740K01A26",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW",
+      "nav": 10.7528,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124182",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF740KA1OF7",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Daily Reinvest",
+      "nav": 10.0892,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124176",
+      "isin_div_payout": "INF740K01ZX0",
+      "isin_div_reinvest": "INF740K01ZY8",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Monthly",
+      "nav": 10.2941,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124177",
+      "isin_div_payout": "INF740K01ZZ5",
+      "isin_div_reinvest": "INF740K01A00",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Quarterly ",
+      "nav": 10.3963,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124183",
+      "isin_div_payout": "INF740KA1OG5",
+      "isin_div_reinvest": "INF740KA1OH3",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Weekly",
+      "nav": 10.093,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124172",
+      "isin_div_payout": "INF740K01ZP6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - Growth",
+      "nav": 24.5762,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124174",
+      "isin_div_payout": "INF740K01ZU6",
+      "isin_div_reinvest": "INF740K01ZV4",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW",
+      "nav": 10.7224,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124173",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF740KA1OI1",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Daily Reinvest",
+      "nav": 10.0872,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124180",
+      "isin_div_payout": "INF740K01ZQ4",
+      "isin_div_reinvest": "INF740K01ZR2",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Monthly",
+      "nav": 10.2805,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124181",
+      "isin_div_payout": "INF740K01ZS0",
+      "isin_div_reinvest": "INF740K01ZT8",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Quarterly ",
+      "nav": 10.382,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "124179",
+      "isin_div_payout": "INF740KA1OJ9",
+      "isin_div_reinvest": "INF740KA1OK7",
+      "scheme_name": "DSP Banking & PSU Debt Fund - Regular Plan - IDCW - Weekly",
+      "nav": 10.0912,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140286",
+      "isin_div_payout": "INF843K01FC8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth Option",
+      "nav": 26.2851,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140288",
+      "isin_div_payout": "INF843K01FD6",
+      "isin_div_reinvest": "INF843K01FE4",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - IDCW Option",
+      "nav": 18.506,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140291",
+      "isin_div_payout": "INF843K01FG9",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan Fortnightly - IDCW Option",
+      "nav": 14.3878,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140293",
+      "isin_div_payout": "INF843K01FI5",
+      "isin_div_reinvest": "INF843K01FH7",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan Monthly - IDCW Option",
+      "nav": 10.8535,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140290",
+      "isin_div_payout": "INF843K01FF1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan weekly - IDCW Option",
+      "nav": 10.4946,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140283",
+      "isin_div_payout": "INF843K01FK1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan - Growth Option",
+      "nav": 25.3108,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140284",
+      "isin_div_payout": "INF843K01FL9",
+      "isin_div_reinvest": "INF843K01FM7",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan - IDCW Option",
+      "nav": 17.6019,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140294",
+      "isin_div_payout": "INF843K01FO3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Fortnightly - IDCW Option",
+      "nav": 13.914,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140292",
+      "isin_div_payout": "INF843K01FQ8",
+      "isin_div_reinvest": "INF843K01FP0",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Monthly - IDCW Option",
+      "nav": 11.0959,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "140289",
+      "isin_div_payout": "INF843K01FN5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Weekly - IDCW Option",
+      "nav": 10.0898,
+      "date": "27-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "129008",
+      "isin_div_payout": "INF090I01KR8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Franklin India Banking & PSU Debt Fund - Direct - Growth",
+      "nav": 24.4373,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "129006",
+      "isin_div_payout": "INF090I01KO5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Franklin India Banking & PSU Debt Fund - Growth",
+      "nav": 23.3384,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "129009",
+      "isin_div_payout": "INF090I01KS6",
+      "isin_div_reinvest": "INF090I01KT4",
+      "scheme_name": "Franklin India Banking and PSU Debt Fund - Direct - IDCW ",
+      "nav": 11.3998,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "129007",
+      "isin_div_payout": "INF090I01KP2",
+      "isin_div_reinvest": "INF090I01KQ0",
+      "scheme_name": "Franklin India Banking and PSU Debt Fund - IDCW ",
+      "nav": 10.7824,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "128628",
+      "isin_div_payout": "INF179KA1JC4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - Growth Option",
+      "nav": 23.6545,
+      "date": "27-Mar-2026",
+      "amc": "HDFC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "128629",
+      "isin_div_payout": "INF179KA1IZ7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - Growth Option - Direct Plan",
+      "nav": 24.6981,
+      "date": "27-Mar-2026",
+      "amc": "HDFC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "128627",
+      "isin_div_payout": "INF179KA1JD2",
+      "isin_div_reinvest": "INF179KA1JE0",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - IDCW Option",
+      "nav": 10.0696,
+      "date": "27-Mar-2026",
+      "amc": "HDFC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "128626",
+      "isin_div_payout": "INF179KA1JA8",
+      "isin_div_reinvest": "INF179KA1JB6",
+      "scheme_name": "HDFC Banking and PSU Debt Fund - IDCW Option - Direct Plan",
+      "nav": 9.9625,
+      "date": "27-Mar-2026",
+      "amc": "HDFC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151108",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF917K01HL7",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Daily IDCW",
+      "nav": 11.1329,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151107",
+      "isin_div_payout": "INF917K01HH5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Growth",
+      "nav": 26.3871,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151106",
+      "isin_div_payout": "INF917K01HJ1",
+      "isin_div_reinvest": "INF917K01HI3",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Monthly IDCW",
+      "nav": 11.1045,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151109",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF917K01HK9",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Weekly IDCW",
+      "nav": 10.2985,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151102",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF677K01AF4",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Daily IDCW",
+      "nav": 11.056,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151104",
+      "isin_div_payout": "INF677K01AE7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Growth",
+      "nav": 24.9912,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151105",
+      "isin_div_payout": "INF677K01AI8",
+      "isin_div_reinvest": "INF677K01AJ6",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Monthly IDCW",
+      "nav": 10.3285,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "151103",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF917K01HM5",
+      "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Weekly IDCW",
+      "nav": 10.27,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "112343",
+      "isin_div_payout": "INF109K01WS5",
+      "isin_div_reinvest": "INF109K01RV9",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund -  Daily IDCW",
+      "nav": 10.0549,
+      "date": "16-Sep-2022",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "112344",
+      "isin_div_payout": "INF109K01WR7",
+      "isin_div_reinvest": "INF109K01RU1",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund -  Weekly IDCW",
+      "nav": 10.2427,
+      "date": "16-Sep-2022",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "130897",
+      "isin_div_payout": "INF109KA1B57",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Bonus",
+      "nav": 15.8889,
+      "date": "24-Apr-2020",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120257",
+      "isin_div_payout": "INF109K01Z89",
+      "isin_div_reinvest": "INF109K01Z97",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Daily IDCW",
+      "nav": 10.2538,
+      "date": "16-Sep-2022",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120256",
+      "isin_div_payout": "INF109K010A6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Growth",
+      "nav": 35.3569,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120258",
+      "isin_div_payout": "INF109K011A4",
+      "isin_div_reinvest": "INF109K012A2",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Quarterly IDCW",
+      "nav": 12.8868,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120255",
+      "isin_div_payout": "INF109K013A0",
+      "isin_div_reinvest": "INF109K014A8",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Weekly IDCW",
+      "nav": 10.3708,
+      "date": "16-Sep-2022",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "130950",
+      "isin_div_payout": "INF109KA1B40",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan Bonus",
+      "nav": 13.8665,
+      "date": "10-Apr-2018",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "131148",
+      "isin_div_payout": "INF109KA1M96",
+      "isin_div_reinvest": "INF109KA1M88",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan Half Yearly IDCW Option",
+      "nav": 13.1098,
+      "date": "16-Sep-2022",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "112342",
+      "isin_div_payout": "INF109K01RT3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Growth",
+      "nav": 33.8346,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "116174",
+      "isin_div_payout": "INF109K01YE1",
+      "isin_div_reinvest": "INF109K01YD3",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Quarterly IDCW",
+      "nav": 10.9086,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "131147",
+      "isin_div_payout": "INF109KA1M70",
+      "isin_div_reinvest": "INF109KA1M62",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund Half Yearly IDCW Option",
+      "nav": 12.9261,
+      "date": "16-Sep-2022",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "113247",
+      "isin_div_payout": "INF109K01WW7",
+      "isin_div_reinvest": "INF109K01JM5",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund Retail Daily Dividend",
+      "nav": 10.0122,
+      "date": "24-Apr-2020",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "113242",
+      "isin_div_payout": "INF109K01II5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund Retail Growth",
+      "nav": 21.631,
+      "date": "24-Apr-2020",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "113243",
+      "isin_div_payout": "INF109K01WV9",
+      "isin_div_reinvest": "INF109K01IJ3",
+      "scheme_name": "ICICI Prudential Banking and PSU Debt Fund Retail Weekly Dividend",
+      "nav": 10.3305,
+      "date": "20-Aug-2015",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120444",
+      "isin_div_payout": "INF205K01KT4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Invesco India Banking and PSU Fund - Direct Plan -  Growth Option",
+      "nav": 2497.8514,
+      "date": "27-Mar-2026",
+      "amc": "Invesco Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    },
+    {
+      "scheme_code": "120443",
+      "isin_div_payout": "-",
+      "isin_div_reinvest": "INF205K01KS6",
+      "scheme_name": "Invesco India Banking and PSU Fund - Direct Plan - Daily IDCW (Reinvestment)",
+      "nav": 1056.6491,
+      "date": "27-Mar-2026",
+      "amc": "Invesco Mutual Fund",
+      "category": "Open Ended Schemes(Debt Scheme - Banking and PSU Fund)"
+    }
+  ],
+  "nifty_50_funds": [
+    {
+      "scheme_code": "151165",
+      "isin_div_payout": "INF579M01AN2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - Growth",
+      "nav": 12.9014,
+      "date": "27-Mar-2026",
+      "amc": "360 ONE Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151166",
+      "isin_div_payout": "INF579M01AO0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - IDCW Payout",
+      "nav": 12.9014,
+      "date": "27-Mar-2026",
+      "amc": "360 ONE Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151164",
+      "isin_div_payout": "INF579M01AL6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Regular Plan - Growth",
+      "nav": 12.7971,
+      "date": "27-Mar-2026",
+      "amc": "360 ONE Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151167",
+      "isin_div_payout": "INF579M01AM4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Regular Plan - IDCW Payout",
+      "nav": 12.7971,
+      "date": "27-Mar-2026",
+      "amc": "360 ONE Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151471",
+      "isin_div_payout": "INF959L01GR6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN GROWTH",
+      "nav": 13.794,
+      "date": "27-Mar-2026",
+      "amc": "Navi Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151473",
+      "isin_div_payout": "INF959L01GT2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN IDCW PAYOUT",
+      "nav": 13.8003,
+      "date": "27-Mar-2026",
+      "amc": "Navi Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151472",
+      "isin_div_payout": "INF959L01GS4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN GROWTH",
+      "nav": 13.4008,
+      "date": "27-Mar-2026",
+      "amc": "Navi Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "151474",
+      "isin_div_payout": "INF959L01GU0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN IDCW PAYOUT",
+      "nav": 13.4538,
+      "date": "27-Mar-2026",
+      "amc": "Navi Mutual Fund",
+      "category": "Open Ended Schemes(Equity Scheme - ELSS)"
+    },
+    {
+      "scheme_code": "119648",
+      "isin_div_payout": "INF209K01VY3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Direct Plan",
+      "nav": 236.8316,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101314",
+      "isin_div_payout": "INF209K01LB2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Regular Plan",
+      "nav": 231.2976,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "119649",
+      "isin_div_payout": "INF209K01VX5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Aditya Birla Sun Life Nifty 50 Index Fund -DIRECT - IDCW",
+      "nav": 24.4845,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101313",
+      "isin_div_payout": "INF209K01LA4",
+      "isin_div_reinvest": "INF209K01LC0",
+      "scheme_name": "Aditya Birla Sun Life Nifty 50 Index Fund -REGULAR - IDCW",
+      "nav": 23.6365,
+      "date": "27-Mar-2026",
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153529",
+      "isin_div_payout": "INF1J2R01072",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ANGEL ONE NIFTY 50 INDEX FUND-DIRECT-GROWTH",
+      "nav": 9.3398,
+      "date": "27-Mar-2026",
+      "amc": "Angel One Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153530",
+      "isin_div_payout": "INF1J2R01080",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ANGEL ONE NIFTY 50 INDEX FUND-REGULAR-GROWTH",
+      "nav": 9.3002,
+      "date": "27-Mar-2026",
+      "amc": "Angel One Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149373",
+      "isin_div_payout": "INF846K013D2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Axis Nifty 50 Index Fund - Direct Plan - Growth",
+      "nav": 13.7867,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149374",
+      "isin_div_payout": "INF846K014D0",
+      "isin_div_reinvest": "INF846K015D7",
+      "scheme_name": "Axis Nifty 50 Index Fund - Direct Plan - IDCW",
+      "nav": 13.0765,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149371",
+      "isin_div_payout": "INF846K016D5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Axis Nifty 50 Index Fund - Regular Plan - Growth Option",
+      "nav": 13.6153,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149372",
+      "isin_div_payout": "INF846K017D3",
+      "isin_div_reinvest": "INF846K018D1",
+      "scheme_name": "Axis Nifty 50 Index Fund - Regular Plan - IDCW",
+      "nav": 12.9148,
+      "date": "27-Mar-2026",
+      "amc": "Axis Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153506",
+      "isin_div_payout": "INF0QA701BA9",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Direct - Growth",
+      "nav": 9.2578,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153505",
+      "isin_div_payout": "INF0QA701BB7",
+      "isin_div_reinvest": "INF0QA701BC5",
+      "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Direct - IDCW",
+      "nav": 9.2578,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153508",
+      "isin_div_payout": "INF0QA701AY1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular - Growth",
+      "nav": 9.2056,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153507",
+      "isin_div_payout": "INF0QA701BJ0",
+      "isin_div_reinvest": "INF0QA701AZ8",
+      "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular - IDCW",
+      "nav": 9.2056,
+      "date": "27-Mar-2026",
+      "amc": "Bajaj Finserv Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "112877",
+      "isin_div_payout": "INF194K01920",
+      "isin_div_reinvest": "-",
+      "scheme_name": "BANDHAN Nifty 50 Index Fund - Regular Plan - Growth",
+      "nav": 49.126,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "112878",
+      "isin_div_payout": "INF194K01938",
+      "isin_div_reinvest": "INF194K01946",
+      "scheme_name": "BANDHAN Nifty 50 Index Fund - Regular Plan - IDCW",
+      "nav": 44.5878,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "118482",
+      "isin_div_payout": "INF194K012A8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "BANDHAN Nifty 50 Index Fund-Direct Plan-Growth",
+      "nav": 50.756,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "118483",
+      "isin_div_payout": "INF194K013A6",
+      "isin_div_reinvest": "INF194K014A4",
+      "scheme_name": "BANDHAN Nifty 50 Index Fund-Direct Plan-IDCW",
+      "nav": 46.1316,
+      "date": "27-Mar-2026",
+      "amc": "Bandhan Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152329",
+      "isin_div_payout": "INF251K01SY1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - Growth option",
+      "nav": 10.7084,
+      "date": "27-Mar-2026",
+      "amc": "Baroda BNP Paribas Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152330",
+      "isin_div_payout": "INF251K01SZ8",
+      "isin_div_reinvest": "INF251K01TA9",
+      "scheme_name": "Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - IDCW option",
+      "nav": 10.7084,
+      "date": "27-Mar-2026",
+      "amc": "Baroda BNP Paribas Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152331",
+      "isin_div_payout": "INF251K01SV7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - Growth option",
+      "nav": 10.6168,
+      "date": "27-Mar-2026",
+      "amc": "Baroda BNP Paribas Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152328",
+      "isin_div_payout": "INF251K01SW5",
+      "isin_div_reinvest": "INF251K01SX3",
+      "scheme_name": "Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW option",
+      "nav": 10.6168,
+      "date": "27-Mar-2026",
+      "amc": "Baroda BNP Paribas Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "146376",
+      "isin_div_payout": "INF740KA1MM7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "DSP Nifty 50 Index Fund - Direct Plan - Growth",
+      "nav": 22.3813,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "146377",
+      "isin_div_payout": "INF740KA1MN5",
+      "isin_div_reinvest": "INF740KA1MO3",
+      "scheme_name": "DSP Nifty 50 Index Fund - Direct Plan - IDCW",
+      "nav": 19.1508,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "146379",
+      "isin_div_payout": "INF740KA1MJ3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "DSP Nifty 50 Index Fund - Regular Plan - Growth",
+      "nav": 22.0692,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "146378",
+      "isin_div_payout": "INF740KA1MK1",
+      "isin_div_reinvest": "INF740KA1ML9",
+      "scheme_name": "DSP Nifty 50 Index Fund - Regular Plan - IDCW",
+      "nav": 17.9966,
+      "date": "27-Mar-2026",
+      "amc": "DSP Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149250",
+      "isin_div_payout": "INF754K01NB3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Nifty 50 Index Fund Direct Plan Growth",
+      "nav": 13.7254,
+      "date": "25-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149251",
+      "isin_div_payout": "INF754K01NC1",
+      "isin_div_reinvest": "INF754K01ND9",
+      "scheme_name": "Edelweiss Nifty 50 Index Fund Direct Plan IDCW",
+      "nav": 13.5355,
+      "date": "25-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149252",
+      "isin_div_payout": "INF754K01MX9",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Edelweiss Nifty 50 Index Fund Regular Plan Growth",
+      "nav": 13.2628,
+      "date": "25-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149253",
+      "isin_div_payout": "INF754K01MY7",
+      "isin_div_reinvest": "INF754K01MZ4",
+      "scheme_name": "Edelweiss Nifty 50 Index Fund Regular Plan IDCW",
+      "nav": 13.2626,
+      "date": "25-Mar-2026",
+      "amc": "Edelweiss Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "118580",
+      "isin_div_payout": "INF090I01GQ8",
+      "isin_div_reinvest": "INF090I01GR6",
+      "scheme_name": "Franklin India INDEX FUND- NSE Nifty 50 Index Fund - Direct - IDCW",
+      "nav": 176.5687,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "100484",
+      "isin_div_payout": "INF090I01890",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Franklin India Index Fund- NSE Nifty 50 Index Fund - Growth",
+      "nav": 184.1874,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "105067",
+      "isin_div_payout": "INF090I01874",
+      "isin_div_reinvest": "INF090I01882",
+      "scheme_name": "Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND - IDCW",
+      "nav": 166.8685,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "118581",
+      "isin_div_payout": "INF090I01GS4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth",
+      "nav": 193.9783,
+      "date": "27-Mar-2026",
+      "amc": "Franklin Templeton Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153704",
+      "isin_div_payout": "INF666M01KT3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Groww Nifty 50 Index Fund Direct Growth",
+      "nav": 9.1042,
+      "date": "27-Mar-2026",
+      "amc": "Groww Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153709",
+      "isin_div_payout": "INF666M01KU1",
+      "isin_div_reinvest": "INF666M01KV9",
+      "scheme_name": "Groww Nifty 50 Index Fund Direct IDCW",
+      "nav": 9.1042,
+      "date": "27-Mar-2026",
+      "amc": "Groww Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153710",
+      "isin_div_payout": "INF666M01KW7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Groww Nifty 50 Index Fund Regular Growth",
+      "nav": 9.0606,
+      "date": "27-Mar-2026",
+      "amc": "Groww Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153711",
+      "isin_div_payout": "INF666M01LJ2",
+      "isin_div_reinvest": "INF666M01LK0",
+      "scheme_name": "Groww Nifty 50 Index Fund Regular IDCW",
+      "nav": 9.0607,
+      "date": "27-Mar-2026",
+      "amc": "Groww Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "119063",
+      "isin_div_payout": "INF179K01WM1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HDFC Nifty 50 Index Fund - Direct Plan",
+      "nav": 221.8611,
+      "date": "27-Mar-2026",
+      "amc": "HDFC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101525",
+      "isin_div_payout": "INF179K01KZ8",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HDFC Nifty 50 Index Fund - Growth Plan",
+      "nav": 216.7902,
+      "date": "27-Mar-2026",
+      "amc": "HDFC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "151157",
+      "isin_div_payout": "INF917K01D12",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HSBC NIFTY 50 INDEX FUND - Direct Growth",
+      "nav": 26.845,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "151156",
+      "isin_div_payout": "INF917K01C96",
+      "isin_div_reinvest": "INF917K01D04",
+      "scheme_name": "HSBC NIFTY 50 INDEX FUND - Direct IDCW",
+      "nav": 26.845,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "151158",
+      "isin_div_payout": "INF917K01D38",
+      "isin_div_reinvest": "-",
+      "scheme_name": "HSBC NIFTY 50 INDEX FUND - Regular Growth",
+      "nav": 26.3662,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "151159",
+      "isin_div_payout": "INF917K01D20",
+      "isin_div_reinvest": "INF917K01D46",
+      "scheme_name": "HSBC NIFTY 50 INDEX FUND - Regular IDCW",
+      "nav": 26.3662,
+      "date": "27-Mar-2026",
+      "amc": "HSBC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101349",
+      "isin_div_payout": "INF109K01PI0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Nifty 50 Index Fund - Cumulative Option",
+      "nav": 234.8454,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "120620",
+      "isin_div_payout": "INF109K012M7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option",
+      "nav": 244.9786,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "135391",
+      "isin_div_payout": "INF109KB1NL1",
+      "isin_div_reinvest": "INF109KB1NM9",
+      "scheme_name": "ICICI Prudential Nifty 50 Index Fund - Direct Plan IDCW Option",
+      "nav": 32.9442,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "135390",
+      "isin_div_payout": "INF109KB1NN7",
+      "isin_div_reinvest": "INF109KB1NO5",
+      "scheme_name": "ICICI Prudential Nifty 50 Index Fund - IDCW Option",
+      "nav": 31.2869,
+      "date": "25-Mar-2026",
+      "amc": "ICICI Prudential Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153787",
+      "isin_div_payout": "INF22M001044",
+      "isin_div_reinvest": "-",
+      "scheme_name": "JioBlackRock Nifty 50 Index Fund - Direct Plan - Growth Option",
+      "nav": 9.1816,
+      "date": "27-Mar-2026",
+      "amc": "Jio BlackRock Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "148978",
+      "isin_div_payout": "INF174KA1HA7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Kotak Nifty 50 Index Fund - Direct Plan-Growth",
+      "nav": 15.062,
+      "date": "27-Mar-2026",
+      "amc": "Kotak Mahindra Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "148976",
+      "isin_div_payout": "INF174KA1HB5",
+      "isin_div_reinvest": "INF174KA1HC3",
+      "scheme_name": "Kotak Nifty 50 Index Fund - Direct Plan-IDCW Payout",
+      "nav": 15.059,
+      "date": "27-Mar-2026",
+      "amc": "Kotak Mahindra Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "148974",
+      "isin_div_payout": "INF174KA1GX1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Kotak Nifty 50 Index Fund - Regular Plan-Growth",
+      "nav": 14.841,
+      "date": "27-Mar-2026",
+      "amc": "Kotak Mahindra Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "148979",
+      "isin_div_payout": "INF174KA1GY9",
+      "isin_div_reinvest": "INF174KA1GZ6",
+      "scheme_name": "Kotak Nifty 50 Index Fund - Regular Plan-IDCW Payout",
+      "nav": 14.841,
+      "date": "27-Mar-2026",
+      "amc": "Kotak Mahindra Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "120307",
+      "isin_div_payout": "INF767K01FF2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "LIC MF Nifty 50 Index Fund-Direct Plan-Growth",
+      "nav": 136.0077,
+      "date": "27-Mar-2026",
+      "amc": "LIC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "120309",
+      "isin_div_payout": "INF767K01FG0",
+      "isin_div_reinvest": "INF767K01FH8",
+      "scheme_name": "LIC MF Nifty 50 Index Fund-Direct Plan-IDCW",
+      "nav": 50.1128,
+      "date": "27-Mar-2026",
+      "amc": "LIC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101201",
+      "isin_div_payout": "INF767K01162",
+      "isin_div_reinvest": "-",
+      "scheme_name": "LIC MF Nifty 50 Index Fund-Regular Plan-Growth",
+      "nav": 125.7578,
+      "date": "27-Mar-2026",
+      "amc": "LIC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101200",
+      "isin_div_payout": "INF767K01154",
+      "isin_div_reinvest": "INF767K01147",
+      "scheme_name": "LIC MF Nifty 50 Index Fund-Regular Plan-IDCW",
+      "nav": 46.3917,
+      "date": "27-Mar-2026",
+      "amc": "LIC Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152972",
+      "isin_div_payout": "INF769K01MQ1",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Mirae Asset Nifty 50 Index Fund - Direct Plan - Growth",
+      "nav": 9.4623,
+      "date": "27-Mar-2026",
+      "amc": "Mirae Asset Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152973",
+      "isin_div_payout": "INF769K01MN8",
+      "isin_div_reinvest": "INF769K01MM0",
+      "scheme_name": "Mirae Asset Nifty 50 Index Fund - Direct Plan - IDCW",
+      "nav": 9.4625,
+      "date": "27-Mar-2026",
+      "amc": "Mirae Asset Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152974",
+      "isin_div_payout": "INF769K01MO6",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Mirae Asset Nifty 50 Index Fund - Regular Plan - Growth",
+      "nav": 9.3768,
+      "date": "27-Mar-2026",
+      "amc": "Mirae Asset Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "152975",
+      "isin_div_payout": "INF769K01MP3",
+      "isin_div_reinvest": "INF769K01MR9",
+      "scheme_name": "Mirae Asset Nifty 50 Index Fund - Regular Plan - IDCW",
+      "nav": 9.3785,
+      "date": "27-Mar-2026",
+      "amc": "Mirae Asset Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "147794",
+      "isin_div_payout": "INF247L01AE7",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Motilal Oswal Nifty 50 Index Fund - Direct plan - Growth",
+      "nav": 19.7791,
+      "date": "27-Mar-2026",
+      "amc": "Motilal Oswal Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "147795",
+      "isin_div_payout": "INF247L01AF4",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Motilal Oswal Nifty 50 Index Fund - Regular plan - Growth",
+      "nav": 19.2807,
+      "date": "27-Mar-2026",
+      "amc": "Motilal Oswal Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149039",
+      "isin_div_payout": "INF959L01FP2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Navi Nifty 50 Index Fund-Direct Plan-Growth",
+      "nav": 14.963,
+      "date": "27-Mar-2026",
+      "amc": "Navi Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "149040",
+      "isin_div_payout": "INF959L01FQ0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Navi Nifty 50 Index Fund-Regular Plan-Growth",
+      "nav": 14.8206,
+      "date": "27-Mar-2026",
+      "amc": "Navi Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "119288",
+      "isin_div_payout": "INF277K01PJ3",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Tata Nifty 50 Index Fund -Direct Plan",
+      "nav": 154.2416,
+      "date": "27-Mar-2026",
+      "amc": "Tata Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "101659",
+      "isin_div_payout": "INF277K01741",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Tata Nifty 50 Index Fund -Regular Plan",
+      "nav": 141.9052,
+      "date": "27-Mar-2026",
+      "amc": "Tata Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "118881",
+      "isin_div_payout": "INF044D01CQ5",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Taurus Nifty 50 Index Fund - Direct Plan - Growth",
+      "nav": 46.2343,
+      "date": "27-Mar-2026",
+      "amc": "Taurus Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "118882",
+      "isin_div_payout": "INF044D01CR3",
+      "isin_div_reinvest": "INF044D01CS1",
+      "scheme_name": "Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+      "nav": 43.2701,
+      "date": "27-Mar-2026",
+      "amc": "Taurus Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "112948",
+      "isin_div_payout": "INF044D01948",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Taurus Nifty 50 Index Fund - Regular Plan - Growth",
+      "nav": 43.3232,
+      "date": "27-Mar-2026",
+      "amc": "Taurus Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "112949",
+      "isin_div_payout": "INF044D01914",
+      "isin_div_reinvest": "INF044D01922",
+      "scheme_name": "Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option",
+      "nav": 27.6221,
+      "date": "27-Mar-2026",
+      "amc": "Taurus Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "120717",
+      "isin_div_payout": "INF789F01WY2",
+      "isin_div_reinvest": "INF789F01WZ9",
+      "scheme_name": "UTI Nifty 50 Index Fund - Direct Plan - IDCW",
+      "nav": 80.373,
+      "date": "27-Mar-2026",
+      "amc": "UTI Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "120716",
+      "isin_div_payout": "INF789F01XA0",
+      "isin_div_reinvest": "-",
+      "scheme_name": "UTI Nifty 50 Index Fund - Growth Option- Direct",
+      "nav": 159.5291,
+      "date": "27-Mar-2026",
+      "amc": "UTI Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "100822",
+      "isin_div_payout": "INF789F01JN2",
+      "isin_div_reinvest": "-",
+      "scheme_name": "UTI Nifty 50 Index Fund - Regular Plan - Growth Option",
+      "nav": 157.1853,
+      "date": "27-Mar-2026",
+      "amc": "UTI Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "100823",
+      "isin_div_payout": "INF789F01JL6",
+      "isin_div_reinvest": "INF789F01JM4",
+      "scheme_name": "UTI Nifty 50 Index Fund - Regular Plan - IDCW",
+      "nav": 79.1898,
+      "date": "27-Mar-2026",
+      "amc": "UTI Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    },
+    {
+      "scheme_code": "153906",
+      "isin_div_payout": "INF0R8F01158",
+      "isin_div_reinvest": "-",
+      "scheme_name": "Zerodha Nifty 50 Index Fund - Direct Plan - Growth",
+      "nav": 9.068,
+      "date": "27-Mar-2026",
+      "amc": "Zerodha Mutual Fund",
+      "category": "Open Ended Schemes(Other Scheme - Index Funds)"
+    }
+  ]
+}

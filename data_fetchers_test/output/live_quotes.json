@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-03-27T23:42:35.409915",
+  "market_status": {
+    "api_working": false,
+    "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)>"
+  },
+  "quotes": {}
+}
